@@ -3,7 +3,7 @@
 ---
 
 ## Loom Demo
-📹 [View Demo on Loom](#) *(Add link here once uploaded)*
+https://www.loom.com/share/5f80aa9467934cb08a3e42484a83b008
 
 ## Overview
 
