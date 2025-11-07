@@ -17,26 +17,25 @@ This **n8n workflow** automates FLAG’s early-stage outreach to **Texas city an
 ## 📸 Screenshots – Action Plan 1
 
 ### ⚙️ N8N Setup
-![N8N Setup](FLAG_MGO_Dashboard_Lead_Acceleration/Screenshots/Action_Plan_1/N8N_SETUP.png)
+![N8N Setup](FLAG_MGO_Dashboard_Lead_Acceleration/Screenshots/Action_Plan_1/N8N%20SETUP.png)
 
 ### 🔍 Data Retrieval
-![Data Retrieval](FLAG_MGO_Dashboard_Lead_Acceleration/Screenshots/Action_Plan_1/Data_Retrieval.png)
+![Data Retrieval](FLAG_MGO_Dashboard_Lead_Acceleration/Screenshots/Action_Plan_1/Data%20Retrieval.png)
 
 ### 🧹 Filtering the Data
-![Filtering the Data](FLAG_MGO_Dashboard_Lead_Acceleration/Screenshots/Action_Plan_1/Filtering_the_data.png)
+![Filtering the Data](FLAG_MGO_Dashboard_Lead_Acceleration/Screenshots/Action_Plan_1/Filtering%20the%20data.png)
 
 ### 📤 Gmail Automation
-![Gmail Automation](FLAG_MGO_Dashboard_Lead_Acceleration/Screenshots/Action_Plan_1/Gmail_Automation.png)
+![Gmail Automation](FLAG_MGO_Dashboard_Lead_Acceleration/Screenshots/Action_Plan_1/Gmail%20Automation.png)
 
 ### 📥 Gmail Inbox
-![Gmail Inbox Screenshot](FLAG_MGO_Dashboard_Lead_Acceleration/Screenshots/Action_Plan_1/Gmail_inbox_screenshot.png)
+![Gmail Inbox Screenshot](FLAG_MGO_Dashboard_Lead_Acceleration/Screenshots/Action_Plan_1/Gmail%20inbox%20screenshot%20.png)
 
 ### 📝 Google Form
-![Google Form](FLAG_MGO_Dashboard_Lead_Acceleration/Screenshots/Action_Plan_1/Google_form.png)
+![Google Form](FLAG_MGO_Dashboard_Lead_Acceleration/Screenshots/Action_Plan_1/Google%20form.png)
 
 ### 📋 Form Responses
-![Form Responses Screenshot](FLAG_MGO_Dashboard_Lead_Acceleration/Screenshots/Action_Plan_1/Form_Responses_Screenshot.png)
-
+![Form Responses Screenshot](FLAG_MGO_Dashboard_Lead_Acceleration/Screenshots/Action_Plan_1/Form%20Responses%20Screenshot.png)
 
 This serves as the **first working prototype** toward FLAG’s **data-informed business development framework**.
 
