@@ -15,9 +15,9 @@ This 90-day roadmap turns FLAG’s strategic goals into tangible, automated work
 ├── Dashboard_Storytelling.mp4
 └── Proposal_Generator.mp4
 
-## #Implementation_Phases
+## Implementation_Phases
 
-### 🟢 **Phase 1 – Civic Pulse Outreach Automation (Dec 1 – Dec 15, 2025)**
+### 🟢 **Phase 1 – Civic Pulse Outreach Automation (Dec 1 – Dec 15, 2025) - Assuming internship starts at December 1st**
 Build an automated system to identify and contact non-client Texas municipalities.  
 **Tools & Deliverables:**
 - Google Sheets + Gmail + n8n  
