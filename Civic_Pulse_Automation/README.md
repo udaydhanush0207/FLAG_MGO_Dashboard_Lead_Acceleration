@@ -14,27 +14,40 @@ This **n8n workflow** automates FLAG’s early-stage outreach to **Texas city an
 - Send personalized introduction emails about FLAG’s **Civic Pulse Dashboard**  
 - Track engagement and responses automatically  
 
-## 📸 Screenshots – Action Plan 1
+## Rollout Plan
 
-### ⚙️ N8N Setup
+| Phase | Timeline | Action |
+|--------|-----------|---------|
+| **Phase 1** | Week 1–2 | Reached out to top **140 priority contacts** (ranked by population and MGO activity). |
+| **Phase 2** | Week 3–4 | Review Google Form responses and shortlist interested officials. |
+| **Phase 3** | Week 5–6 | Follow up with remaining 360 contacts using improved messaging. |
+| **Phase 4** | Week 7–8 | Present engagement dashboard to FLAG leadership showing ROI and lead pipeline. |
+
+**Strategy:**  
+The first 140 contacts act as a pilot to validate the message and timing before the statewide rollout.
+
+
+## Screenshots – Action Plan 1
+
+### N8N Setup
 ![N8N Setup](https://github.com/udaydhanush0207/FLAG_MGO_Dashboard_Lead_Acceleration/raw/main/Screenshots/Action_Plan_1/N8N%20SETUP.png)
 
-### 🔍 Data Retrieval
+### Data Retrieval
 ![Data Retrieval](https://github.com/udaydhanush0207/FLAG_MGO_Dashboard_Lead_Acceleration/raw/main/Screenshots/Action_Plan_1/Data%20Retrieval.png)
 
-### 🧹 Filtering the Data
+### Filtering the Data
 ![Filtering the Data](https://github.com/udaydhanush0207/FLAG_MGO_Dashboard_Lead_Acceleration/raw/main/Screenshots/Action_Plan_1/Filtering%20the%20data.png)
 
-### 📤 Gmail Automation
+### Gmail Automation
 ![Gmail Automation](https://github.com/udaydhanush0207/FLAG_MGO_Dashboard_Lead_Acceleration/raw/main/Screenshots/Action_Plan_1/Gmail%20Automation.png)
 
-### 📥 Gmail Inbox
+### Gmail Inbox
 ![Gmail Inbox Screenshot](https://github.com/udaydhanush0207/FLAG_MGO_Dashboard_Lead_Acceleration/raw/main/Screenshots/Action_Plan_1/Gmail%20inbox%20screenshot%20.png)
 
-### 📝 Google Form
+### Google Form
 ![Google Form](https://github.com/udaydhanush0207/FLAG_MGO_Dashboard_Lead_Acceleration/raw/main/Screenshots/Action_Plan_1/Google%20form.png)
 
-### 📋 Form Responses
+### Form Responses
 ![Form Responses Screenshot](https://github.com/udaydhanush0207/FLAG_MGO_Dashboard_Lead_Acceleration/raw/main/Screenshots/Action_Plan_1/Form%20Responses%20Screenshot.png)
 
 This serves as the **first working prototype** toward FLAG’s **data-informed business development framework**.
@@ -83,7 +96,7 @@ Front Line Advisory Group (FLAG)
 
 ## Impact
 
-- **Audience:** 500+ Texas city/county officials  
+- **Audience:** 140+ Texas city/county officials  
 - **Automation Goal:** Outreach → Demo Interest → CRM Integration  
 - **Expected Outcome:** 50+ engaged leads and 5–10 qualified demo requests  
 
