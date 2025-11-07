@@ -4,7 +4,6 @@
 
 ## Loom Demo
 https://www.loom.com/share/5f80aa9467934cb08a3e42484a83b008
-
 ## Overview
 
 This **n8n workflow** automates FLAG’s early-stage outreach to **Texas city and county officials** using data from **MyGovernmentOnline (MGO)** and a curated **Google Sheet of 500 municipal contacts**.
