@@ -30,6 +30,13 @@ This serves as the **first working prototype** toward FLAG’s **data-informed b
 
 ---
 
+## Budget
+
+| Phase             | Tool/Service                                | Cost Estimate     | Notes                                                  |
+|------------------|---------------------------------------------|-------------------|--------------------------------------------------------|
+| Prototype (current) | OpenAI API, Gmail, Google Sheets, n8n (free) | $1–2 total        | Single campaign for 500 contacts                       |
+| Scaled (future)    | n8n Cloud, OpenAI credits, MailerLite integration | Up to $50/month   | Supports 5K+ contacts and automated tracking           |
+
 ## ✉️ Automated Email Example
 Hi [First Name],
 
