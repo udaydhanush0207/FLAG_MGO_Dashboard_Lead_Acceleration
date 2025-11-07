@@ -1,6 +1,6 @@
-# #FLAG_MGO_Dashboard – 90-Day Action Plan Implementation
+## FLAG_MGO_Dashboard – 90-Day Action Plan Implementation
 
-## #Overview
+## Overview
 The **MGO Dashboard** empowers Texas cities and counties with data-driven insights for financial and grant planning.  
 This 90-day roadmap turns FLAG’s strategic goals into tangible, automated workflows and visual analytics systems.
 
