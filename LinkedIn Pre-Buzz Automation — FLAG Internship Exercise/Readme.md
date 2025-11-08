@@ -39,21 +39,23 @@ Use a **pre-buzz automation engine** to establish FLAG’s presence ahead of the
 
 ## Screenshots – Action Plan 2
 
-**n8n Workflow Setup**
-*(Screenshot 1: Entire n8n workflow overview)*
+### n8n Workflow Overview
+![n8n workflow](./Screenshots/Action_Plan_2/n8n%20workflow.png)
 
-**Content Generation Node (OpenAI)**
-*(Screenshot 2: Post title + caption creation node)*
+### Topic Generator Node
+![Topic Generator Node](./Screenshots/Action_Plan_2/Topic%20Generator%20Node.png)
 
-**Hashtag Generator**
-*(Screenshot 3: Output with relevant hashtags)*
+### Hashtag Generator Node
+![Hashtag Generator Node](./Screenshots/Action_Plan_2/Hashtag%20Generator%20Node.png)
 
-**Image Prompt Generator**
-*(Screenshot 4: Prompt suggestions for OpenAI image node)*
+### Image Prompt Generator
+![Image Prompt Generator](./Screenshots/Action_Plan_2/Image%20prompt%20Generator.png)
 
-**Output Demo (Google Sheets or Twitter)**
-*(Screenshot 5: Final combined content visible in output node)*
+### OpenAI Node
+![OpenAI Node](./Screenshots/Action_Plan_2/OPEN%20AI%20NODE.png)
 
+### Output Demo
+![Output Demo](./Screenshots/Action_Plan_2/Output%20demo.png)
 ---
 
 ## ⚙️ Workflow Summary
