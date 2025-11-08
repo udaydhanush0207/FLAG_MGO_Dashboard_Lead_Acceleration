@@ -1,7 +1,7 @@
 # LinkedIn Pre-Buzz Automation — FLAG Internship Exercise
 
 **Loom Demo**
-*(Add your Loom link here once recorded)*
+https://www.loom.com/share/48385f8df57a43be8e802c8b421ef9d1
 
 ---
 
