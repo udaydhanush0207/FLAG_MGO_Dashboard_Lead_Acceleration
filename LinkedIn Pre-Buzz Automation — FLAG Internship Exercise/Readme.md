@@ -39,23 +39,23 @@ Use a **pre-buzz automation engine** to establish FLAG’s presence ahead of the
 
 ## Screenshots – Action Plan 2
 
-### n8n Workflow Overview
-![n8n workflow](./Screenshots/Action_Plan_2/n8n%20workflow.png)
+### n8n Workflow Overview  
+![n8n Workflow](https://github.com/udaydhanush0207/FLAG_MGO_Dashboard_Lead_Acceleration/raw/main/Screenshots/Action_Plan_2/n8n%20workflow.png)
 
-### Topic Generator Node
-![Topic Generator Node](./Screenshots/Action_Plan_2/Topic%20Generator%20Node.png)
+### Topic Generator Node  
+![Topic Generator Node](https://github.com/udaydhanush0207/FLAG_MGO_Dashboard_Lead_Acceleration/raw/main/Screenshots/Action_Plan_2/Topic%20Generator%20Node.png)
 
-### Hashtag Generator Node
-![Hashtag Generator Node](./Screenshots/Action_Plan_2/Hashtag%20Generator%20Node.png)
+### Hashtag Generator Node  
+![Hashtag Generator Node](https://github.com/udaydhanush0207/FLAG_MGO_Dashboard_Lead_Acceleration/raw/main/Screenshots/Action_Plan_2/Hashtag%20Generator%20Node.png)
 
-### Image Prompt Generator
-![Image Prompt Generator](./Screenshots/Action_Plan_2/Image%20prompt%20Generator.png)
+### Image Prompt Generator  
+![Image Prompt Generator](https://github.com/udaydhanush0207/FLAG_MGO_Dashboard_Lead_Acceleration/raw/main/Screenshots/Action_Plan_2/Image%20prompt%20Generator.png)
 
-### OpenAI Node
-![OpenAI Node](./Screenshots/Action_Plan_2/OPEN%20AI%20NODE.png)
+### OpenAI Node  
+![OpenAI Node](https://github.com/udaydhanush0207/FLAG_MGO_Dashboard_Lead_Acceleration/raw/main/Screenshots/Action_Plan_2/OPEN%20AI%20NODE.png)
 
-### Output Demo
-![Output Demo](./Screenshots/Action_Plan_2/Output%20demo.png)
+### Output Demo  
+![Output Demo](https://github.com/udaydhanush0207/FLAG_MGO_Dashboard_Lead_Acceleration/raw/main/Screenshots/Action_Plan_2/Output%20demo.png)
 ---
 
 ## ⚙️ Workflow Summary
