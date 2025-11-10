@@ -7,9 +7,12 @@ This 90-day roadmap turns FLAG’s strategic goals into tangible, automated work
 **Goal:** Grow MGO Dashboard adoption from **1 → 20+ clients by October 2026**  
 **Budget Allocated:** $15,000
 
-**Budget Used:**
+**Budget Used:**$6500
 
-**Budget Saved:**
+(Assuming with medium-cost level pricing for each segment of every action plan. This may differ with my requirements with tasks assigned and expceted outcomes subjcted to requirements.)
+
+**Budget Saved:**$8500 
+
 **Strategy:** Awareness → Engagement → Conversion → Retention  
 
 ---
