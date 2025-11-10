@@ -1,4 +1,4 @@
-# FLAG - Blitz_AI driven Dashboard Automation (Action Plan 5)
+# FLAG - Blitz_AI driven Dashboard Automation - FLAG Internship Exercise (Action Plan 5)
 
 ## 📌 Overview
 This project demonstrates how raw civic data (permit logs, municipal exports, or internal service requests) can be transformed into interactive dashboards and automated outreach to acquire real clients.
