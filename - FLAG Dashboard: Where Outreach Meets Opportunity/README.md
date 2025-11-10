@@ -1,4 +1,4 @@
-# Civic Pulse Analytics Dashboard — FLAG Internship Exercise (Action Plan 4)
+# FLAG Dashboard: Where Outreach Meets Opportunity — FLAG Internship Exercise (Action Plan 4)
 
 ---
 
