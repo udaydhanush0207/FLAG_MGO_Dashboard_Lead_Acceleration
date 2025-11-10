@@ -23,9 +23,7 @@ Build an automated system to identify and contact non-client Texas municipalitie
 - Google Sheets + Gmail + n8n  
 - Personalized cold outreach campaign  
 - Contact segmentation and filtering  
-- Demo: `Loom_Demos/Civic_Pulse_Outreach.mp4`  
-- emplate: `FLAG_Civic_Pulse_Workflow_Template.n8n`
-
+- Demo: https://www.loom.com/share/5f80aa9467934cb08a3e42484a83b008
 ---
 
 ### 🟠 **Phase 2 – Pre-Conference Buzz Engine (Dec 16 – Jan 10, 2026)**
@@ -34,28 +32,25 @@ Create pre-event awareness for the Texas Municipal Conference.
 - AI-driven LinkedIn and email content workflows  
 - Automated post scheduling using Airtable and n8n  
 - Engagement metrics dashboard  
-- Demo: `Loom_Demos/PreConference_Buzz_Engine.mp4`  
-- Template: `FLAG_Buzz_Engine_Template.n8n`
-
+- Demo: https://www.loom.com/share/48385f8df57a43be8e802c8b421ef9d1
+- 
 ---
 
-### 🔵 **Phase 3 – CRM + Outreach Automation (Jan 11 – Jan 25, 2026)**
+### 🔵 **Phase 3 – Conference and post conference outreach (Jan 11 – Jan 25, 2026)**
 Centralize all contacts and automate follow-ups for interested leads.  
 **Tools & Deliverables:**
-- Airtable CRM + n8n workflow integration  
+- Make a podcast with existing client
 - Automated follow-up reminders and interest tracking  
-- Demo: `Loom_Demos/CRM_Outreach_Automation.mp4`  
-- Template: `FLAG_CRM_Outreach_Template.n8n`
+- Demo: `Loom_Demos/CRM_Outreach_Automation.mp4`
 
 ---
 
 ### 🟣 **Phase 4 – Dashboard Storytelling Suite (Jan 26 – Feb 10, 2026)**
 Build interactive Power BI dashboards that demonstrate the value of MGO data.  
 **Tools & Deliverables:**
-- Power BI / Excel visualization setup  
+- Google Looker Studio setup  
 - Real-time progress tracking dashboards  
 - 📹 Demo: `Loom_Demos/Dashboard_Storytelling.mp4`  
-- 🧩 Template: `FLAG_Dashboard_Storytelling_Template.pbix`
 
 ---
 
