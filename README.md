@@ -5,6 +5,7 @@ The **MGO Dashboard** empowers Texas cities and counties with data-driven insigh
 This 90-day roadmap turns FLAG’s strategic goals into tangible, automated workflows and visual analytics systems.
 
 **Goal:** Grow MGO Dashboard adoption from **1 → 20+ clients by October 2026**  
+
 **Budget Allocated:** $15,000
 
 **Budget Used:**$6500
