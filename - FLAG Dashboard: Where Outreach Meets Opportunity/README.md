@@ -2,12 +2,17 @@
 
 ---
 
-## 🌐 Live Dashboard  
+## Live Dashboard  
 🔗 [View in Looker Studio](https://lookerstudio.google.com/reporting/c246bc5d-6a09-48a4-a9bf-5cf76f8c50d8)
 
 ---
 
-## 🧭 Overview  
+## Demo LOOM for Dashboard  
+https://www.loom.com/share/178c6b1afda34de4b866862c439d7518
+
+---
+
+## Overview  
 
 This Looker Studio dashboard transforms FLAG’s municipal outreach dataset into a **real-time analytics view** of potential clients, conference engagement, and permitting activity across Texas counties.  
 
@@ -15,7 +20,7 @@ It’s designed to help the **Front Line Advisory Group (FLAG)** team visualize 
 
 ---
 
-## 🎯 Goals  
+## Goals  
 
 - Combine **municipal contact data** and **conference insights** into a single analytical interface.  
 - Identify **high-potential counties** based on permit volume, population, and engagement.  
@@ -24,7 +29,7 @@ It’s designed to help the **Front Line Advisory Group (FLAG)** team visualize 
 
 ---
 
-## ⚙️ Dashboard Components  
+## Dashboard Components  
 
 ### **Data Source**
 - File: `Texas_Municipal_Contacts_500.xlsx`  
@@ -81,7 +86,7 @@ It’s designed to help the **Front Line Advisory Group (FLAG)** team visualize 
 
 ---
 
-## 🧩 Next Steps (Scalable Vision)
+## Next Steps (Scalable Vision)
 
 | Phase | Timeline | Action |
 |--------|-----------|--------|
@@ -92,7 +97,7 @@ It’s designed to help the **Front Line Advisory Group (FLAG)** team visualize 
 
 ---
 
-## 🎙️ Bonus Strategy — Client Podcast Idea  
+## Bonus Strategy — Client Podcast Idea  
 
 Since FLAG currently has **one existing client**, the plan includes:
 - Recording a short **client success podcast** discussing their permitting experience.  
@@ -103,7 +108,7 @@ This gives the FLAG brand a **human story** — building credibility while showi
 
 ---
 
-## 🚀 Impact Summary  
+## Impact Summary  
 
 - **Audience:** 500 Texas municipal contacts  
 - **Tool Stack:** Google Sheets + Looker Studio  
@@ -112,7 +117,7 @@ This gives the FLAG brand a **human story** — building credibility while showi
 
 ---
 
-## 📊 Author  
+## Author  
 
 **Venkat Satya Uday Dhanush Karri**  
 Business Development & Data Analytics Intern  
@@ -121,7 +126,7 @@ November 2025
 
 ---
 
-### 🔖 Tags  
+### Tags  
 #DataAnalytics #FLAG #CivicPulse #LookerStudio #DashboardDesign #TexasGovernment #DataDrivenMarketing #PublicSectorInnovation #ProgramManagement #VeteranOwnedBusiness #MGO #AnalyticsForOutreach #InternshipProject #GoogleLooker #DataVisualization #FLAGInternship #BusinessDevelopment #LeadGeneration
 
 ---
