@@ -5,15 +5,12 @@ The **MGO Dashboard** empowers Texas cities and counties with data-driven insigh
 This 90-day roadmap turns FLAG’s strategic goals into tangible, automated workflows and visual analytics systems.
 
 **Goal:** Grow MGO Dashboard adoption from **1 → 20+ clients by October 2026**  
-**Budget:** $15,000  
+**Budget Allocated:** $15,000  
+**Budget Used:** 
+**Budget Saved:**
 **Strategy:** Awareness → Engagement → Conversion → Retention  
 
-└── Loom_Demos/
-├── Civic_Pulse_Outreach.mp4
-├── PreConference_Buzz_Engine.mp4
-├── CRM_Outreach_Automation.mp4
-├── Dashboard_Storytelling.mp4
-└── Proposal_Generator.mp4
+---
 
 ## Implementation_Phases
 
@@ -41,8 +38,6 @@ Centralize all contacts and automate follow-ups for interested leads.
 **Tools & Deliverables:**
 - Make a podcast with existing client
 - Automated follow-up reminders and interest tracking  
-- Demo: `Loom_Demos/CRM_Outreach_Automation.mp4`
-
 ---
 
 ### 🟣 **Phase 4 – Dashboard Storytelling Suite (Jan 26 – Feb 10, 2026)**
@@ -59,13 +54,10 @@ Automate personalized proposals for engaged prospects.
 **Tools & Deliverables:**
 - n8n + Google Docs + OpenAI API  
 - Dynamic proposal generator with org-specific data  
-- Demo: `Loom_Demos/Proposal_Generator.mp4`  
-- Template: `FLAG_Proposal_Generator_Template.n8n`
 
 ## 🧠 #Tools_Used
 - **n8n** – Workflow automation  
 - **Google Sheets / Gmail** – Data and email handling  
-- **Airtable** – CRM and scheduling  
 - **Google Looker Studio** – Dashboard visualization  
 - **OpenAI API** – Smart proposal content generation  
 - **Canva / Loom** – Visual design and demos  
