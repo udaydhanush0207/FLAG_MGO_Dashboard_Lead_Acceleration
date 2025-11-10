@@ -1,4 +1,4 @@
-# Civic Pulse Outreach Automation — FLAG Internship Exercise
+# Civic Pulse Outreach Automation — FLAG Internship Exercise (ACTION PLAN - 1)
 
 ---
 
