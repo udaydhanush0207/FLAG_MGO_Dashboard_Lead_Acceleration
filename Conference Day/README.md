@@ -40,8 +40,11 @@ A genuine testimonial that sells credibility without cold marketing — authenti
 
 **Subtotal:** ≈ **$3,200** — within FLAG’s $15K marketing budget allocation.
 ---
-## Total Budget - If we have, all the setup item like TV, booth space and all, we can spend on premium goodies and additional marketing where budget will be same around ~ $3000 including client pay. 
 
+## Total Budget 
+If we have, all the setup item like TV, booth space and all, we can spend on premium goodies and additional marketing where budget will be same around ~ $3000 including client pay. 
+
+---
 ## Booth Demo Flow  
 
 ### 1️⃣ Visual First  
