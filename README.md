@@ -57,7 +57,7 @@ Automate personalized proposals for engaged prospects.
 - n8n + Google Docs + OpenAI API  
 - Dynamic proposal generator with org-specific data  
 
-## 🧠 #Tools_Used
+## Tools_Used
 - **n8n** – Workflow automation  
 - **Google Sheets / Gmail** – Data and email handling  
 - **Google Looker Studio** – Dashboard visualization  
@@ -66,7 +66,7 @@ Automate personalized proposals for engaged prospects.
 
 ---
 
-## 🏁 #Expected_Outcome
+## Expected_Outcome
 - Streamlined outreach to 500+ Texas municipalities  
 - 50+ engaged leads and 10+ qualified demo requests  
 - Unified data-driven marketing framework  
@@ -74,8 +74,8 @@ Automate personalized proposals for engaged prospects.
 
 ---
 
-### 👤 **Author**
+### **Author**
 **Venkat Satya Uday Dhanush Karri**  
 Business Development & Data Analytics Internship Exercise  
 **Front Line Advisory Group (FLAG)**  
-📅 **Implementation Period:** December 1, 2025 – February 28, 2026  ( Assuming Deceber 1st)
+**Implementation Period:** December 1, 2025 – February 28, 2026  ( Assuming Deceber 1st)
