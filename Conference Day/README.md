@@ -12,7 +12,7 @@ Build trust and visibility at the **MyGovernmentOnline (MGO) User Conference**, 
 ## Core Concept: “Voices of Transparency” Podcast  
 
 **Idea:**  
-Turn FLAG’s existing client into a storytelling asset. We can record a **10–15 minute video podcast** that showcases how the Civic Pulse Dashboard improved their visibility, efficiency, and accountability and paying her around 50$~100$ for that video.  
+Turn FLAG’s existing client into a storytelling asset. We can record a **10–15 minute video podcast** that showcases how the Civic Pulse Dashboard improved their visibility, efficiency, and accountability and paying the client around 50$~100$ for that video if they are okay to tell.  
 
 **Execution:**  
 - We will record using Riverside.fm.
@@ -39,8 +39,8 @@ A genuine testimonial that sells credibility without cold marketing — authenti
 | **Miscellaneous Setup** | Logistics, crew support, signage | $300 |
 
 **Subtotal:** ≈ **$3,200** — within FLAG’s $15K marketing budget allocation.
-If we have, the items like TV, Booth setup items, we can give more premium goodies around 3k$ budget with video inclusion. 
 ---
+## Total Budget - If we have, all the setup item like TV, booth space and all, we can spend on premium goodies and additional marketing where budget will be same around ~ $3000 including client pay. 
 
 ## Booth Demo Flow  
 
