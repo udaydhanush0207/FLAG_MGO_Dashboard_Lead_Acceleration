@@ -1,4 +1,4 @@
-# LinkedIn Pre-Buzz Automation — FLAG Internship Exercise
+# LinkedIn Pre-Buzz Automation — FLAG Internship Exercise (ACTION PLAN 2)
 
 **Loom Demo**
 https://www.loom.com/share/48385f8df57a43be8e802c8b421ef9d1
