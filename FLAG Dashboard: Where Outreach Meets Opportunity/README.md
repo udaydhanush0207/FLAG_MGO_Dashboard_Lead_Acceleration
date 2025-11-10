@@ -12,6 +12,10 @@ https://www.loom.com/share/178c6b1afda34de4b866862c439d7518
 
 ---
 
+** BUDGET 
+$0
+
+---
 ## Overview  
 
 This Looker Studio dashboard transforms FLAG’s municipal outreach dataset into a **real-time analytics view** of potential clients, conference engagement, and permitting activity across Texas counties.  
