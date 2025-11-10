@@ -50,7 +50,7 @@ Build interactive Power BI dashboards that demonstrate the value of MGO data.
 **Tools & Deliverables:**
 - Google Looker Studio setup  
 - Real-time progress tracking dashboards  
-- 📹 Demo: `Loom_Demos/Dashboard_Storytelling.mp4`  
+- Demo: https://www.loom.com/share/178c6b1afda34de4b866862c439d7518
 
 ---
 
